@@ -20,7 +20,7 @@ source myenv/Scripts/activate.bat
 
 3) install requirements
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 4) run code 
